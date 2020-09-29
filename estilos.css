@@ -1,0 +1,44 @@
+
+h1{
+	text-align: center;
+	background-color: navy;
+	text-decoration-color: white;
+	color: lightblue;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: .5px;
+}
+h2{
+	text-align: center;
+	background-color: transparent;
+	margin-left: 72px;
+	text-decoration-color: green;
+	font-size: 40px;
+}
+.input{
+	text-align:center;
+	background-color: transparent;
+	size: 40px;
+}
+form{
+	
+	background-color: paleturquoise;
+	display: block;
+	 padding:2px;
+   cursor:pointer;
+   display:block;
+   width:690px;
+   margin: 0 auto;
+   text-align:left;
+}
+.label{
+	text-align: center;
+	size: 50px;
+	font-family: "Times New Roman", Times, serif;
+	float: center;
+	font-size: 25px;
+	color: darkblue;
+}
+body{
+	background-color:lightgray;
+}
